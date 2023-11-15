@@ -11,7 +11,7 @@ Cómo Usar
 
 Clona este repositorio a tu máquina local.
 Abre el archivo aa.html en tu navegador web para ver la página.
-Puedes personalizar el contenido y los estilos según tus necesidades editando el archivo aa.html y stily.css.
+Puedes personalizar el contenido y los estilos según tus necesidades editando el archivo index.html y stily.css.
 Si deseas agregar funcionalidad adicional, puedes hacerlo en el archivo main.js.
 Tecnologías Utilizadas
 
